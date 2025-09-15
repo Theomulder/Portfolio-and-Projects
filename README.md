@@ -1,7 +1,7 @@
 Theo Mulder's Github Portfolio and Projects
 ===========================================
 
-*Creating, Maintaining, and Elevating*
+*"Creating, Maintaining, and Elevating"*
 
 ---
 
